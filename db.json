@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "firstName": "Snehal",
+      "lastName": "Deshmukh",
+      "email": "snehal54@gmail.com",
+      "dob": "2025-04-30T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "Aigenmoics",
+      "experience": 3,
+      "package": 2
+    }
+  ]
+}
