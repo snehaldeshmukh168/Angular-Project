@@ -7,7 +7,8 @@ import { map, Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class EmployeeServiceService {
-  private apiUrl = 'http://localhost:8080/employee';
+  // private apiUrl = 'http://localhost:8080/employee';
+  private apiUrl = 'https://curd-uiconndocker.onrender.com/employee';
 
   constructor(private http: HttpClient) { }
 
