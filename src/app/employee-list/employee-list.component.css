@@ -1,0 +1,26 @@
+.table-header {
+  background-color: #0d3f7e !important;
+  color: white !important;
+  font-weight: 500;
+  text-transform: uppercase;
+  height: 40px;
+}
+
+
+mat-card {
+  padding: 24px;
+}
+
+.header-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.header-title {
+  font-size: 24px;
+  font-weight: 600;
+  color: #0d3f7e;
+  margin: 0;
+}
